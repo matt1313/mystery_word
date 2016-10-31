@@ -10,6 +10,7 @@ big_list = line.split()
 
 
 
+
 def word_class():
     master_list = big_list
     for words in master_list:
